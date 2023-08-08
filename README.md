@@ -28,8 +28,11 @@
 
 ## 👩‍🎓 Formação
 <div style="display: block">
-  👩‍💻 Pos graduação em segurança da informação <br>
+  👩‍💻 Tecnico em montagem e manutenção de computadores
+  👩‍💻 Cisco CCNA
   👩‍💻 Full Stack Developer
+  👩‍💻 Pos graduação em segurança da informação <br>
+
   </div>
 
 ## 💬 Contatos
