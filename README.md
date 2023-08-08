@@ -16,7 +16,7 @@
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-## ⚡ Felicidade
+## ⚡ Felicidades
 <div align="center">
   <p> Motor Racing , SkyDive e  Churrasco </p>
   <img width="30%" height="30%"  src="https://media.tenor.com/ZXAeDZRGIBAAAAAd/spin-kart.gif"/>
