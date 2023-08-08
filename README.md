@@ -9,6 +9,7 @@
   <img height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" >
+  <img  height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -17,7 +18,7 @@
 
 ## ⚡ Felicidade
 <div align="center">
-  <p> Motor Racing , SkyDive e Churrasco </p>
+  <p> Motor Racing , SkyDive e  Churrasco </p>
   <img width="30%" height="30%"  src="https://media.tenor.com/ZXAeDZRGIBAAAAAd/spin-kart.gif"/>
   <img width="30%" height="30%"  src="https://media.tenor.com/Mi5YG2X9798AAAAd/sky-dive-spin.gif"/>
   <img width="30%" height="30%"  src="https://media.tenor.com/6KCO3yWBNP8AAAAC/bbq-barbeque.gif"/>
