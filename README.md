@@ -1,5 +1,5 @@
 ### Oi!!! Seja bem vindo! Eu sou o Ronaldo Tsukamoto 👋
-### Desenvolvedor de sistemas | Instrutor do SENAI | Estudante por toda a vida 👩‍💻
+### Profissional de Cibersegurança | Desenvolvedor de sistemas | Instrutor do SENAI | Estudante por toda a vida 👩‍💻
 
 ##  Alguns dos meus conhecimentos 
 <div style="display: inline_block">
